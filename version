@@ -1,5 +1,18 @@
 {
-"version":"1.7.1",
-"force":True,
-"message":"تست آپدیت"
+"version":"1.7.2",
+"version_description":"
+آپدیت برنامه X2RAY نسخه ی 1.7.2
+
+✅  رفع باگ های جزئی هسته
+✅ رفع مشکلات برنامه روی اندروید 14
+
+⚡️  مستقیم آپدیت کنید
+",
+"force_update":false,
+"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/X2ray/X2RAY_1.7.1.apk",
+"message":
+"
+متاسفانه ما نمیخواستیم اپدیت اجباری بدیم ولی با تغییراتی که رخ داد مجبور شدیم
+از این بابت معذرت میخوام چون میدونم سختی داره
+"
 }
