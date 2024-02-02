@@ -13,7 +13,7 @@
 "message":"",
 
 "mux_enabled":true,
-"mux_concurrency":10,
-"mux_xudpConcurrency": 10,
+"mux_concurrency":8,
+"mux_xudpConcurrency": 8,
 "mux_xudpProxyUDP443": "reject"
 }
