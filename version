@@ -12,7 +12,7 @@
 "update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/vv1.7.3/X2RAY_1.7.3.apk",
 "message":"",
 
-"mux_enabled":true,
+"mux_enabled":false,
 "mux_concurrency":8,
 "mux_xudpConcurrency": 8,
 "mux_xudpProxyUDP443": "reject"
