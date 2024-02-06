@@ -1,15 +1,18 @@
 {
-"version":"1.7.3",
+"version":"1.7.4",
 "version_description":"
-آپدیت برنامه X2RAY نسخه ی 1.7.3
+آپدیت برنامه X2RAY نسخه ی 1.7.4
 
-✅  رفع باگ های جزئی هسته
-✅ آپدیت اشتراک به صورت خودکار
+✅ رفع باگ ها
+✅ اضافه شدن mux
+✅ رفع مشکلات wifi
+✅ رفع مشکلات qrcode
+و...
 
 ⚡️  مستقیم آپدیت کنید
 ",
 "force_update":true,
-"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/vv1.7.3/X2RAY_1.7.3.apk",
+"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/1.7.4/X2RAY_1.7.4.apk",
 "message":"",
 
 "mux_enabled":true,
