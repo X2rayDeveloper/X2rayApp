@@ -1,7 +1,7 @@
 {
-"version":"1.8.1",
+"version":"1.8.2",
 "version_description":"
-آپدیت برنامه X2RAY نسخه ی 1.8.1
+آپدیت برنامه X2RAY نسخه ی 1.8.2
 
 ✅ بهبود برنامه
 و...
@@ -9,7 +9,7 @@
 ⚡️  مستقیم آپدیت کنید
 ",
 "force_update":true,
-"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/v1.8.1/X2RAY_1.8.1.apk",
+"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/v1.8.2/X2RAY_1.8.2.apk",
 "message":"",
 
 "mux_enabled":true,
