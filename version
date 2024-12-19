@@ -1,7 +1,7 @@
 {
-"version":"1.20",
+"version":"1.20.1",
 "version_description":"
-آپدیت برنامه X2RAY نسخه ی 1.20
+آپدیت برنامه X2RAY نسخه ی 1.20.1
 
 ✅ بهبود برنامه
 ✅رفع اختلالات
@@ -11,7 +11,7 @@
 ❗️ در صورت وجود مشکل نسخه نصب شده قبلی را به صورت کامل حذف کنید و سپس نسخه جدید را نصب کنید
 ",
 "force_update":true,
-"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/v1.20/X2RAY_1.20.0.apk",
+"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/v1.20.1/X2RAY_1.20.1.apk",
 "message":"
 ⚠️ کاربران عزیز
 
@@ -19,7 +19,7 @@
 
 بابت اختلالات چند روز گذشته از شما عذرخواهی میکنیم ❤️
 
-❗️ حتما اخرین نسخه برنامه (1.20) را نصب کنید
+❗️ حتما اخرین نسخه برنامه (1.20.1) را نصب کنید
 ",
 
 "mux_enabled":false,
