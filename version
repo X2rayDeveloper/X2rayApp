@@ -1,21 +1,25 @@
 {
-"version":"1.9.2",
+"version":"1.20",
 "version_description":"
-آپدیت برنامه X2RAY نسخه ی 1.9.2
+آپدیت برنامه X2RAY نسخه ی 1.20
 
 ✅ بهبود برنامه
 ✅رفع اختلالات
-✅ رفع باگ پینگ منفی
 و...
 
 ⚡️  مستقیم آپدیت کنید
+❗️ در صورت وجود مشکل نسخه نصب شده قبلی را به صورت کامل حذف کنید و سپس نسخه جدید را نصب کنید
 ",
 "force_update":true,
-"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/v1.9.2/X2RAY_1.9.2.apk",
+"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/v1.20/X2RAY_1.20.0.apk",
 "message":"
 ⚠️ کاربران عزیز
 
 برای رفع مشکل اتصال از بالای صفحه گزینه آپدیت ساب رو بزنید (علامت 🔄)
+
+بابت اختلالات چند روز گذشته از شما عذرخواهی میکنیم ❤️
+
+❗️ حتما اخرین نسخه برنامه (1.20) را نصب کنید
 ",
 
 "mux_enabled":false,
