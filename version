@@ -22,10 +22,5 @@
 ❗️ حتما اخرین نسخه برنامه (1.31) را نصب کنید
 
 ⚠️ اگر اخرین نسخه را نصب کرده اید این پیام را نادیده بگیرید ⚠️
-",
-
-"mux_enabled":false,
-"mux_concurrency":8,
-"mux_xudpConcurrency": 8,
-"mux_xudpProxyUDP443": "reject"
+"
 }
