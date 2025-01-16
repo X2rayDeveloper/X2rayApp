@@ -1,7 +1,10 @@
 {
-"version":"1.3.0",
-"version_description":"",
-"force_update":false,
-"update_link":"",
+"version":"1.3.3",
+"version_description":"
+آپدیت جدید
+نسخه 1.3.3
+",
+"force_update":true,
+"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/Win-V1.3.3/x2raydesktop-installer-v1.3.3.exe",
 "message":""
 }
