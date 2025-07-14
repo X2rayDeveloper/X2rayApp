@@ -1,21 +1,21 @@
 {
-"version":"1.35",
+"version":"1.37",
 "version_description":"
-آپدیت برنامه X2RAY نسخه ی 1.35
+آپدیت برنامه X2RAY نسخه ی 1.37
 
 ✅رفع اختلالات
 و...
 
 ❗️❗️ در صورت وجود مشکل نسخه نصب شده قبلی را به صورت کامل حذف کنید و سپس نسخه جدید را نصب کنید ❗️❗️
 ",
-"force_update":true,
-"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/v.1.35/X2RAY_1.35.apk",
+"force_update":false,
+"update_link":"https://github.com/X2rayDeveloper/X2rayApp/releases/download/android-v1.37/X2RAY_1.37.0.apk",
 "message":"
 ⚠️ کاربران عزیز
 اگر در اتصال به مشکلی برخوردید
 برای رفع مشکل اتصال از بالای صفحه گزینه آپدیت ساب رو بزنید (علامت 🔄)
 
-❗️❗️ حتما اخرین نسخه برنامه (1.35) را نصب کنید ❗️❗️
+❗️❗️ حتما اخرین نسخه برنامه (1.37) را نصب کنید ❗️❗️
 
 ⚠️ اگر اخرین نسخه را نصب کرده اید این پیام را نادیده بگیرید ⚠️
 "
